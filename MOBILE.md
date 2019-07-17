@@ -302,6 +302,10 @@ MobX, JSS, Jest, Webpack, Storybook
 São Paulo, SP  
 GraphQL, Relay, Styled Components, Jest, Formik, Webpack, Material-UI, React Native
 
+[FlatCode Social Media](https://flatcodesm.com/)  
+Belém, PA  
+React Native, Redux
+
 [Fortes Tecnologia em Sistemas](https://www.fortestecnologia.com.br)  
 Fortaleza, CE  Redux, Router
 
